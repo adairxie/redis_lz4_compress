@@ -28,4 +28,4 @@ Require lz4 libarary
 
 
 ## Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ cs LZ4 vs LZO
-[传送门]: https://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO
+[link]: (https://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO)
